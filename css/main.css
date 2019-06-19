@@ -1,0 +1,8 @@
+/*reset*/
+*{margin: 0;padding: 0;box-sizing: border-box;font-style: normal;font-family: 'IBM Plex Mono', monospace;color: #fff;cursor: pointer;text-align: center;}
+body{background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);background-attachment: fixed;}
+.container{max-width: 960px;margin: 0 auto;}
+#display{padding: 80px 0;}
+#display h1{font-size: 15em;}
+#display p{padding-bottom:20px;font-size: 4.5em;}
+#footer{font-size: 1.125em;}
